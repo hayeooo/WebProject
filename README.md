@@ -9,5 +9,8 @@
 2. 배우 인터뷰 2편: https://www.youtube.com/watch?v=YFJvHwuNgfM&t=9s
 3. 소품 촬영: https://www.youtube.com/watch?v=EKfcl30EZNY&t=9s
 
-## 웹사이트 결과물 영상
+## 웹사이트 결과물 영상(sf9_promotion Folder)
 https://www.youtube.com/watch?v=utbG80YMPxU&t=7s
+
+## 그 외 Folder
+navbar, Youtube_mobile, Shopping Mall : clone coding
