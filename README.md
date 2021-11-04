@@ -1,15 +1,13 @@
-## 홍보, 마케팅 관련 대외활동
-#### 카드 뉴스 제작
-1. 자전거 코스 추천: https://blog.naver.com/jeongdongtheater/222292354844
-2. 뮤지컬 홍보물: https://blog.naver.com/jeongdongtheater
+#WebProject
+
+HTML, CSS, Javascript의 기초를 쌓기 위한 작은 프로젝트들입니다.
 
 
-#### 영상 컨텐츠 기획 및 출연
-1. 배우 인터뷰 1편: https://www.youtube.com/watch?v=p9_WdMusgfg&t=20s
-2. 배우 인터뷰 2편: https://www.youtube.com/watch?v=YFJvHwuNgfM&t=9s
-3. 소품 촬영: https://www.youtube.com/watch?v=EKfcl30EZNY&t=9s
 
 ## 웹사이트 결과물 영상(sf9_promotion Folder)
+
+HTML & CSS 만으로 아티스트를 홍보하는 정적 웹사이트를 제작하였습니다.
+
 https://www.youtube.com/watch?v=utbG80YMPxU&t=7s
 
 ## 그 외 Folder
